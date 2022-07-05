@@ -1,2 +1,2 @@
-# ProyectoIceformatic
-ProyectoIceformatic
+# ProyectoHEXformatic
+ProyectoHEXformatic
