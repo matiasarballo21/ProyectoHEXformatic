@@ -1,0 +1,44 @@
+*{background-color:rgb(56, 56, 56);
+    
+}
+.logodiv{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.error{
+    background-color: pink;
+    padding: 10px;
+}
+.correcto{
+background-color: lightgreen;
+padding: 10px;
+}
+.logo{
+    width: 20em;
+   
+
+}
+.formulario{
+    border: 3px lightgray solid;
+    width: auto;
+    height: auto;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    color: rgb(180, 180, 180);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:   3% ;
+    margin-bottom:3% ;
+    
+}
+.titulo{
+    display: flex;
+    justify-content:center;
+    color: darkorange;
+border: 3px darkorange double;
+padding: 0px;
+
+margin-top:   3% ;
+margin-bottom:3% ;
+font-family: Arial, Helvetica, sans-serif;}
