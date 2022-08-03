@@ -1,0 +1,9 @@
+Correccion de la entrega de sistemas
+
+- Formato de entrega incorrecto
+- Argumentación técnica pobre y en muchos casos irrelevante
+- Roles incorrectamente definidos
+- Falta script de usuarios y grupos
+
+Nota de entrega 3
+

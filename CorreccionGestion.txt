@@ -1,0 +1,13 @@
+Correccion de la entrega de Gestión de proyecto
+
+- Formato de documento incorrecto
+- Errores de redacción
+- Errores en la justificación de la organización
+- Falta de contenido
+- Reglas de grupo poco claras y sin sanción
+- Errores de redacción en el ciclo de vida
+- Roles del equipo no especificado (por integrante)
+- Falta documentación de inicio y planificación (contenido)
+- Falta especificación y tareas en Gantt
+
+Nota de proyecto 2
