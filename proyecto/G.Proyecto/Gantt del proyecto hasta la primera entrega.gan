@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2022-07-10" view-index="0" gantt-divider-location="571" resource-divider-location="300" version="3.2.3230" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2022-06-07" view-index="0" gantt-divider-location="402" resource-divider-location="300" version="3.2.3230" locale="es_UY">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd3" name="Name" width="337" order="0"/>
-        <field id="tpd4" name="Begin date" width="87" order="1"/>
-        <field id="tpd5" name="End date" width="79" order="2"/>
-        <field id="tpd10" name="ID" width="52" order="3"/>
+        <field id="tpd3" name="Name" width="234" order="0"/>
+        <field id="tpd4" name="Begin date" width="61" order="1"/>
+        <field id="tpd5" name="End date" width="55" order="2"/>
+        <field id="tpd10" name="ID" width="36" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="color.recent">
             <![CDATA[#0033ff #00ffff #663300 #ffff33 #d19432 #f4f4f4 #ff9966 #ff9900 #66ff66 #ff0000]]>
