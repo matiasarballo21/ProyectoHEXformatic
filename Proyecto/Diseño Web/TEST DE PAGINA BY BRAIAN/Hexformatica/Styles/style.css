@@ -1,0 +1,52 @@
+*{
+   
+    background-color: rgb(233, 133, 2);
+}
+.logodiv{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+.formulario{
+    display: flex;
+    justify-content: center;
+   width:30%;
+   min-width: 200px;
+    margin-top: 2%;
+    background-color: rgb(255, 255, 255);
+border: 3px solid lightgray;
+    align-self: center;
+}
+.logo{
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+
+}
+.submit{
+color: rgb(255, 255, 255);
+display: flex;
+justify-items: end;
+}
+
+.etiqueta{
+    background-color: darkorange;
+    width:30%;
+
+}
+.campo{
+    background-color: darkorange;
+}
+.Titulo{
+    color: rgba(238, 135, 38, 0.726);
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
